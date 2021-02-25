@@ -1,0 +1,3 @@
+./log
+second.txt
+new.txt
