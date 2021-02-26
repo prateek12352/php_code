@@ -2,4 +2,3 @@ Hi this is git
 Hi prateek mishra
 Hii kaise ho
 how are you
-dirrect commit 
